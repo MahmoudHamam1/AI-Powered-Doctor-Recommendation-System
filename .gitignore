@@ -1,3 +1,7 @@
+# IDE and development environment
+.amazonq/
+.devcontainer/
+
 # Environment variables
 .env
 .env.local
