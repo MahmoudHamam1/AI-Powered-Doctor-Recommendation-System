@@ -1,0 +1,20 @@
+Patient Health Record
+
+Date: January 15, 2024
+Patient ID: 12345
+
+Chief Complaint:
+I've been experiencing severe chest pain and shortness of breath for the past 3 days. The pain is sharp and occurs mostly when I'm walking or climbing stairs. I also feel dizzy and my heart races sometimes.
+
+Medical History:
+- High blood pressure (diagnosed 2 years ago)
+- Family history of heart disease
+- Currently taking Lisinopril 10mg daily
+
+Vital Signs:
+- Blood Pressure: 145/95 mmHg
+- Heart Rate: 95 bpm
+- Temperature: 98.6°F
+
+Additional Notes:
+The symptoms worsen with physical activity and improve with rest. I'm concerned about my heart health given my family history.

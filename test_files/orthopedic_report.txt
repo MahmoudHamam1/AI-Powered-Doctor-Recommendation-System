@@ -1,0 +1,28 @@
+ORTHOPEDIC CONSULTATION
+
+Patient: John Doe
+Date: January 18, 2024
+Age: 45 years
+
+CHIEF COMPLAINT:
+Severe lower back pain radiating down the right leg for the past month. Pain is sharp and shooting, rated 8/10 in intensity. Patient reports difficulty walking and standing for extended periods.
+
+HISTORY:
+- Pain started after lifting heavy boxes at work
+- Numbness and tingling in right foot
+- Previous history of minor back strain 5 years ago
+- No recent trauma or accidents
+
+PHYSICAL EXAMINATION:
+- Limited range of motion in lumbar spine
+- Positive straight leg raise test on right side
+- Decreased sensation in L5-S1 dermatome
+
+IMPRESSION:
+Likely lumbar disc herniation with radiculopathy
+
+RECOMMENDATIONS:
+1. MRI of lumbar spine
+2. Physical therapy referral
+3. Pain management consultation
+4. Follow-up in 2 weeks

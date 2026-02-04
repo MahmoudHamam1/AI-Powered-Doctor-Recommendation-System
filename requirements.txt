@@ -1,0 +1,10 @@
+transformers
+torch
+streamlit
+python-dotenv
+speechrecognition
+PyPDF2
+python-docx
+sentencepiece
+protobuf
+accelerate
