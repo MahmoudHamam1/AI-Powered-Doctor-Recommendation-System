@@ -68,6 +68,8 @@ streamlit run app.py
 
 The app opens at `http://localhost:8501` and works immediately with text input and document upload using the rule-based system.
 
+**Note**: First run may take 10-15 seconds to load. The AI model (optional) requires ~2GB download.
+
 ### Optional: Enable AI Model
 
 To use Gemma 2 2B model for enhanced analysis:
@@ -147,6 +149,17 @@ python test_app.py
 
 See [TEST_CASES.md](TEST_CASES.md) for 12+ specialty test scenarios with expected outputs.
 
+## Troubleshooting
+
+**Issue**: Port 8501 already in use  
+**Solution**: `pkill -f streamlit` or use a different port: `streamlit run app.py --server.port 8502`
+
+**Issue**: Model loading fails  
+**Solution**: The app works without the model using rule-based analysis. To use AI model, ensure HF_TOKEN is set in .env file.
+
+**Issue**: Voice input not working  
+**Solution**: Install system dependencies: `sudo apt-get install portaudio19-dev python3-pyaudio`
+
 ## About HAI-DEF Challenge
 
 This project is built for **Google's Health AI Developer Foundations (HAI-DEF)** challenge, which promotes:
@@ -172,7 +185,13 @@ Contributions are welcome! To contribute:
 
 ## License
 
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Google for the Gemma 2 2B model and HAI-DEF challenge
+- Hugging Face for model hosting and Transformers library
+- Streamlit for the amazing web framework
 
 ## Built For
 
